@@ -1,5 +1,5 @@
 # Mongo MCP
-We connect an LLM to a MongoDB so you can make all the operation(insert, find, delete, update) with a prompt.
+We connect an LLM to MongoDB so you can make all the operation(insert, find, delete, update) with a prompt.
 
 You can install the dependencies with this command:
 ```bash
